@@ -3,72 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doctor Who Episodes</title>
+    <title>MidTerm Exam for Internet Programming</title>
+
     <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Information About episode</h1>
+    <div id="filter" class="filter">
+        <label for="Episode">Episode: </label>
+        <input type="text" id="Episode-filter" />
+
+        
+        <label for="genre">Genre: </label>
+        <select id="genre-filter">
+            <option value="All" selected>All</option>
+            <option value="Science fiction" selected>Science fiction</option>
+            <option value="Drama" selected>Drama</option>
+            <option value="Adventure" selected>Adventure</option>
+            <option value="Thriller" selected>Thriller</option>
+        </select>
+
+
+        <label for="year">Year: </label>
+        <input type="number" id="year-filter" />
+
+        <button id="apply-filter">Apply Filter</button>
+    </div>
 </head>
 <body>
-    <div class="container">
-        <h1>Doctor Who Episodes</h1>
-        
-        <div class="filters">
-            <div class="filter-group">
-                <label for="name-filter">Episode Name:</label>
-                <input type="text" id="name-filter" placeholder="Search episodes...">
-            </div>
-            
-            <div class="filter-group">
-                <label for="era-filter">Era:</label>
-                <select id="era-filter">
-                    <option value="">All Eras</option>
-                </select>
-            </div>
-            
-            <div class="filter-group">
-                <label for="doctor-filter">Doctor:</label>
-                <select id="doctor-filter">
-                    <option value="">All Doctors</option>
-                </select>
-            </div>
-            
-            <div class="filter-group">
-                <label for="companion-filter">Companion:</label>
-                <select id="companion-filter">
-                    <option value="">All Companions</option>
-                </select>
-            </div>
-        </div>
-
-        <div class="episodes-list">
-            <div class="episodes-header">
-                <div class="header-cell" data-sort="rank">Rank</div>
-                <div class="header-cell" data-sort="name">Name</div>
-                <div class="header-cell" data-sort="series">Series</div>
-                <div class="header-cell" data-sort="era">Era</div>
-                <div class="header-cell" data-sort="broadcast">Broadcast Year</div>
-                <div class="header-cell" data-sort="director">Director</div>
-                <div class="header-cell" data-sort="writer">Writer</div>
-                <div class="header-cell" data-sort="doctor">Doctor</div>
-                <div class="header-cell" data-sort="companion">Companion</div>
-                <div class="header-cell" data-sort="cast">Cast</div>
-                <div class="header-cell" data-sort="plot">Plot</div>
-            </div>
-            
-            <!-- Example episode row -->
-            <div class="episode-row">
-                <div class="episode-cell">1</div>
-                <div class="episode-cell">Episode Title</div>
-                <div class="episode-cell">1</div>
-                <div class="episode-cell">Modern</div>
-                <div class="episode-cell">2005</div>
-                <div class="episode-cell">Director Name</div>
-                <div class="episode-cell">Writer Name</div>
-                <div class="episode-cell">David Tennant (10th Doctor)</div>
-                <div class="episode-cell">Billie Piper (Rose Tyler)</div>
-                <div class="episode-cell">5</div>
-                <div class="episode-cell plot-preview">A brief description of the episode that might be longer...</div>
-            </div>
-        </div>
+    <h1>Episode Information</h1>
+    <div class="episode-header-table">
+      <div class="episode-header">Episode</div>
+      <div class="episode-header">Title</div>
+      <div class="episode-header">Director</div>
+      <div class="episode-header">Year</div>
+      <div class="episode-header">Genre</div>
+      <div class="episode-header">Plot</div>
+      <div class="episode-header">Cast</div>
+      <div class="episode-header">Oscars</div>
     </div>
+    <div id="episode-container">
+      <div class="episode-table">
+        <div class="episode-data">1</div>
+        <div class="episode-data">Blink</div>
+        <div class="episode-data">Hettie MacDonald</div>
+        <div class="episode-data">2007</div>
+        <div class="episode-data">Science fiction / Adventure / Drama</div>
+        <div class="episode-data">
+          Sally Sparrow must unravel a time-twisted mystery involving the Weeping Angels, stone creatures that send their victims into the past and feed off their potential energy
+        </div>
+        <div class="episode-data">
+          <ul>
+            <li><strong>David Tennant</strong> as Tenth Doctor</li>
+            <li><strong>Freema Agyeman</strong> as Martha Jones</li>
+            <li><strong>Carey Mulligan</strong> as Sally Sparrow</li>
+            <li><strong>Finlay Robertson</strong> as Larry Nightingale</li>
+            <li><strong>Michael Obiora</strong> as Billy Shipton</li>
+            <li><strong>Lucy Gaskell</strong> as Kathy Nightingale</li>
+          </ul>
+        </div>
+        <div class="episode-data">2</div>
+      </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
