@@ -1,9 +1,9 @@
 :root {
-    --primary-color: #005ba4;
-    --secondary-color: #0081c6;
+    --primary-color: #aa0202;
+    --secondary-color: #7c0303;
     --background-color: #f5f5f5;
-    --border-color: #ddd;
-    --hover-color: #f0f0f0;
+    --border-color: rgb(255, 255, 255);
+    --hover-color: #adabab;
 }
 
 body {
