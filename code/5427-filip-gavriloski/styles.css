@@ -5,24 +5,25 @@
     --border-color: #ddd;
     --hover-color: #f0f0f0;
 }
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
     background-color: var(--background-color);
 }
-
 .container {
     margin: 0 auto;
     background-color: white;
     padding: 20px;
 }
-
 h1 {
     color: var(--primary-color);
     text-align: center;
     margin-bottom: 30px;
+}
+
+header {
+    margin-bottom: 20px;
 }
 
 .filters {
@@ -32,18 +33,15 @@ h1 {
     padding: 20px;
     background-color: var(--background-color);
 }
-
 .filter-group {
     display: flex;
     flex-direction: column;
 }
-
 .filter-group label {
     margin-bottom: 5px;
     color: var(--primary-color);
     font-weight: bold;
 }
-
 .filter-group input,
 .filter-group select {
     padding: 8px;
@@ -51,81 +49,40 @@ h1 {
     font-size: 14px;
     width: 200px;
 }
-
 .episodes-list {
     border: 1px solid var(--border-color);
 }
 
-.episodes-header {
-    display: flex;
-    background-color: var(--primary-color);
-    color: white;
-    font-weight: bold;
+table {
+    width: 100%;
+    border-collapse: collapse;
 }
 
-.header-cell {
-    padding: 12px;
-    position: relative;
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
     cursor: pointer;
+    background-color: #f2f2f2;
 }
 
-.header-cell:hover {
-    background-color: var(--secondary-color);
+th:hover {
+    background-color: #ddd;
 }
 
-.header-cell::after {
-    content: '↕';
-    position: absolute;
-    right: 8px;
-    opacity: 0.5;
+th[data-sort]::after {
+    content: " ";
+    font-size: 0.8em;
+    color: gray;
 }
 
-.header-cell.sorted-asc::after {
-    content: '↑';
-    opacity: 1;
+th[data-sort].asc::after {
+    content: "▲";
 }
 
-.header-cell.sorted-desc::after {
-    content: '↓';
-    opacity: 1;
-}
-
-.episode-row {
-    display: flex;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.episode-row:hover {
-    background-color: var(--hover-color);
-}
-
-.episode-cell {
-    padding: 12px;
-}
-
-.header-cell,
-.episode-cell {
-    flex: 1;
-}
-
-.header-cell[data-sort="rank"],
-.episode-cell:nth-child(1) {
-    flex: 0.5;
-}
-
-.header-cell[data-sort="name"],
-.episode-cell:nth-child(2) {
-    flex: 2;
-}
-
-.header-cell[data-sort="plot"],
-.episode-cell:nth-child(11) {
-    flex: 3;
-}
-
-.era-icon {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    margin-right: 8px;
+th[data-sort].desc::after {
+    content: "▼";
 }
