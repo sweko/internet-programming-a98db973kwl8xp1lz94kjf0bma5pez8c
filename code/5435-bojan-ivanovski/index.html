@@ -36,36 +36,28 @@
                     <option value="">All Companions</option>
                 </select>
             </div>
+
+            <button id="apply-filter">Apply Filter</button>
         </div>
 
         <div class="episodes-list">
             <div class="episodes-header">
-                <div class="header-cell" data-sort="rank">Rank</div>
-                <div class="header-cell" data-sort="name">Name</div>
-                <div class="header-cell" data-sort="series">Series</div>
-                <div class="header-cell" data-sort="era">Era</div>
-                <div class="header-cell" data-sort="broadcast">Broadcast Year</div>
-                <div class="header-cell" data-sort="director">Director</div>
-                <div class="header-cell" data-sort="writer">Writer</div>
-                <div class="header-cell" data-sort="doctor">Doctor</div>
-                <div class="header-cell" data-sort="companion">Companion</div>
-                <div class="header-cell" data-sort="cast">Cast</div>
-                <div class="header-cell" data-sort="plot">Plot</div>
+                <div class="header-cell">Rank<span id="rank-sort">Sort</span></div>
+                <div class="header-cell">Title<span id="title-sort">Sort</span></div>
+                <div class="header-cell">Series<span id="series-sort">Sort</span></div>
+                <div class="header-cell">Era<span id="era-sort">Sort</span></div>
+                <div class="header-cell">Broadcast Year<span id="broadcast-sort">Sort</span></div>
+                <div class="header-cell">Director<span id="director-sort">Sort</span></div>
+                <div class="header-cell">Writer<span id="writer-sort">Sort</span></div>
+                <div class="header-cell">Doctor<span id="doctor-sort">Sort</span></div>
+                <div class="header-cell">Companion<span id="companion-sort">Sort</span></div>
+                <div class="header-cell">Cast<span id="cast-sort">Sort</span></div>
+                <div class="header-cell">Plot<span id="plot-sort">Sort</span></div>
             </div>
             
             <!-- Example episode row -->
-            <div class="episode-row">
-                <div class="episode-cell">1</div>
-                <div class="episode-cell">Episode Title</div>
-                <div class="episode-cell">1</div>
-                <div class="episode-cell">Modern</div>
-                <div class="episode-cell">2005</div>
-                <div class="episode-cell">Director Name</div>
-                <div class="episode-cell">Writer Name</div>
-                <div class="episode-cell">David Tennant (10th Doctor)</div>
-                <div class="episode-cell">Billie Piper (Rose Tyler)</div>
-                <div class="episode-cell">5</div>
-                <div class="episode-cell plot-preview">A brief description of the episode that might be longer...</div>
+            <div id="episode-container" class="episode-container"></div>
+
             </div>
         </div>
     </div>
