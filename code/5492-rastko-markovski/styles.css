@@ -113,7 +113,7 @@ h1 {
     flex: 0.5;
 }
 
-.header-cell[data-sort="name"],
+.header-cell[data-sort="title"],
 .episode-cell:nth-child(2) {
     flex: 2;
 }

@@ -10,6 +10,7 @@
     <div class="container">
         <h1>Doctor Who Episodes</h1>
         
+        <!-- Filters -->
         <div class="filters">
             <div class="filter-group">
                 <label for="name-filter">Episode Name:</label>
@@ -20,6 +21,9 @@
                 <label for="era-filter">Era:</label>
                 <select id="era-filter">
                     <option value="">All Eras</option>
+                    <option value="Classic">Classic</option>
+                    <option value="Modern">Modern</option>
+                    <option value="Recent">Recent</option>
                 </select>
             </div>
             
@@ -38,13 +42,14 @@
             </div>
         </div>
 
+        <!-- Episodes List -->
         <div class="episodes-list">
             <div class="episodes-header">
                 <div class="header-cell" data-sort="rank">Rank</div>
-                <div class="header-cell" data-sort="name">Name</div>
+                <div class="header-cell" data-sort="title">Name</div>
                 <div class="header-cell" data-sort="series">Series</div>
                 <div class="header-cell" data-sort="era">Era</div>
-                <div class="header-cell" data-sort="broadcast">Broadcast Year</div>
+                <div class="header-cell" data-sort="broadcast_date">Broadcast Year</div>
                 <div class="header-cell" data-sort="director">Director</div>
                 <div class="header-cell" data-sort="writer">Writer</div>
                 <div class="header-cell" data-sort="doctor">Doctor</div>
@@ -53,20 +58,7 @@
                 <div class="header-cell" data-sort="plot">Plot</div>
             </div>
             
-            <!-- Example episode row -->
-            <div class="episode-row">
-                <div class="episode-cell">1</div>
-                <div class="episode-cell">Episode Title</div>
-                <div class="episode-cell">1</div>
-                <div class="episode-cell">Modern</div>
-                <div class="episode-cell">2005</div>
-                <div class="episode-cell">Director Name</div>
-                <div class="episode-cell">Writer Name</div>
-                <div class="episode-cell">David Tennant (10th Doctor)</div>
-                <div class="episode-cell">Billie Piper (Rose Tyler)</div>
-                <div class="episode-cell">5</div>
-                <div class="episode-cell plot-preview">A brief description of the episode that might be longer...</div>
-            </div>
+            <div id="episode-list"></div>
         </div>
     </div>
     <script src="script.js"></script>
