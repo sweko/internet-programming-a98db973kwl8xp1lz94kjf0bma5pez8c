@@ -1,0 +1,324 @@
+{
+  "episodes": [
+    {
+      "rank": 41,
+      "title": "Face the Raven/Heaven Sent/Hell Bent",
+      "series": 9,
+      "era": "Modern",
+      "broadcast_date": "2015-11-21",
+      "director": "Rachel Talalay",
+      "writer": "Steven Moffat",
+      "plot": "Following Clara's death, the Doctor endures billions of years of torture in his confession dial before reaching Gallifrey, where he attempts to cheat death itself to save his companion.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Jenna Coleman",
+        "character": "Clara Oswald"
+      },
+      "cast": [
+        {
+          "actor": "Maisie Williams",
+          "character": "Ashildr/Me"
+        },
+        {
+          "actor": "Donald Sumpter",
+          "character": "President Rassilon"
+        },
+        {
+          "actor": "Ken Bones",
+          "character": "The General"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "title": "Flatline",
+      "series": 8,
+      "era": "Modern",
+      "broadcast_date": "2014-10-18",
+      "director": "Douglas Mackinnon",
+      "writer": "Jamie Mathieson",
+      "plot": "Clara must take on the role of the Doctor when two-dimensional beings invade our world while the Doctor is trapped inside a shrinking TARDIS.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Jenna Coleman",
+        "character": "Clara Oswald"
+      },
+      "cast": [
+        {
+          "actor": "Joivan Wade",
+          "character": "Rigsy"
+        },
+        {
+          "actor": "Christopher Fairbank",
+          "character": "Fenton"
+        },
+        {
+          "actor": "Jessica Hayles",
+          "character": "PC Forrest"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "title": "The Unicorn and the Wasp",
+      "series": 4,
+      "era": "Modern",
+      "broadcast_date": "2008-05-17",
+      "director": "Graeme Harper",
+      "writer": "Gareth Roberts",
+      "plot": "The Doctor and Donna meet Agatha Christie at a 1920s dinner party where they must solve a murder mystery featuring a giant alien wasp.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Catherine Tate",
+        "character": "Donna Noble"
+      },
+      "cast": [
+        {
+          "actor": "Fenella Woolgar",
+          "character": "Agatha Christie"
+        },
+        {
+          "actor": "Felicity Kendal",
+          "character": "Lady Clemency Eddison"
+        },
+        {
+          "actor": "Tom Goodman-Hill",
+          "character": "Reverend Golightly"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "title": "The Christmas Invasion",
+      "series": "Special",
+      "era": "Modern",
+      "broadcast_date": "2005-12-25",
+      "director": "James Hawes",
+      "writer": "Russell T Davies",
+      "plot": "In his first full episode, the newly-regenerated Tenth Doctor must overcome his post-regenerative crisis to save Earth from the Sycorax invasion on Christmas Day.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "Penelope Wilton",
+          "character": "Harriet Jones"
+        },
+        {
+          "actor": "Daniel Evans",
+          "character": "Danny Llewellyn"
+        },
+        {
+          "actor": "Sean Gilder",
+          "character": "Sycorax Leader"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "title": "The Husbands of River Song",
+      "series": "Special",
+      "era": "Modern",
+      "broadcast_date": "2015-12-25",
+      "director": "Douglas Mackinnon",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor joins River Song on a heist, where she doesn't recognize his new face, leading to their last night together at the Singing Towers of Darillium.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Alex Kingston",
+        "character": "River Song"
+      },
+      "cast": [
+        {
+          "actor": "Greg Davies",
+          "character": "King Hydroflax"
+        },
+        {
+          "actor": "Matt Lucas",
+          "character": "Nardole"
+        },
+        {
+          "actor": "Philip Rhys",
+          "character": "Ramone"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "title": "Remembrance of the Daleks",
+      "series": 25,
+      "era": "Classic",
+      "broadcast_date": "1988-10-05",
+      "director": "Andrew Morgan",
+      "writer": "Ben Aaronovitch",
+      "plot": "The Doctor returns to 1963 London where two Dalek factions wage war over Time Lord technology hidden by the First Doctor, exploring themes of racism and fascism.",
+      "doctor": {
+        "actor": "Sylvester McCoy",
+        "incarnation": "Seventh Doctor"
+      },
+      "companion": {
+        "actor": "Sophie Aldred",
+        "character": "Ace"
+      },
+      "cast": [
+        {
+          "actor": "Pamela Salem",
+          "character": "Rachel Jensen"
+        },
+        {
+          "actor": "Simon Williams",
+          "character": "Group Captain Gilmore"
+        },
+        {
+          "actor": "Michael Sheard",
+          "character": "Headmaster"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "title": "Spearhead from Space",
+      "series": 7,
+      "era": "Classic",
+      "broadcast_date": "1970-01-03",
+      "director": "Derek Martinus",
+      "writer": "Robert Holmes",
+      "plot": "The newly-regenerated Third Doctor investigates mysterious plastic mannequins coming to life, marking the first appearance of the Autons and the beginning of his Earth exile.",
+      "doctor": {
+        "actor": "Jon Pertwee",
+        "incarnation": "Third Doctor"
+      },
+      "companion": {
+        "actor": "Caroline John",
+        "character": "Liz Shaw"
+      },
+      "cast": [
+        {
+          "actor": "Nicholas Courtney",
+          "character": "Brigadier Lethbridge-Stewart"
+        },
+        {
+          "actor": "Hugh Burden",
+          "character": "Channing"
+        },
+        {
+          "actor": "Neil Wilson",
+          "character": "John Ransome"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "title": "The Brain of Morbius",
+      "series": 13,
+      "era": "Classic",
+      "broadcast_date": "1976-01-03",
+      "director": "Christopher Barry",
+      "writer": "Terrance Dicks, Robert Holmes",
+      "plot": "The Doctor and Sarah Jane encounter a mad scientist attempting to restore life to Morbius, a criminal Time Lord, using a patchwork body and stolen brain.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Elisabeth Sladen",
+        "character": "Sarah Jane Smith"
+      },
+      "cast": [
+        {
+          "actor": "Philip Madoc",
+          "character": "Solon"
+        },
+        {
+          "actor": "Colin Fay",
+          "character": "Morbius"
+        },
+        {
+          "actor": "Cynthia Grenville",
+          "character": "Maren"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "title": "The Daemons",
+      "series": 8,
+      "era": "Classic",
+      "broadcast_date": "1971-05-22",
+      "director": "Christopher Barry",
+      "writer": "Guy Leopold",
+      "plot": "The Doctor investigates apparent witchcraft in a small English village, uncovering an ancient alien being masquerading as the devil himself.",
+      "doctor": {
+        "actor": "Jon Pertwee",
+        "incarnation": "Third Doctor"
+      },
+      "companion": {
+        "actor": "Katy Manning",
+        "character": "Jo Grant"
+      },
+      "cast": [
+        {
+          "actor": "Nicholas Courtney",
+          "character": "Brigadier Lethbridge-Stewart"
+        },
+        {
+          "actor": "Roger Delgado",
+          "character": "The Master"
+        },
+        {
+          "actor": "Damaris Hayman",
+          "character": "Miss Hawthorne"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "title": "The War Games",
+      "series": 6,
+      "era": "Classic",
+      "broadcast_date": "1969-04-19",
+      "director": "David Maloney",
+      "writer": "Malcolm Hulke, Terrance Dicks",
+      "plot": "The Second Doctor's final story reveals the existence of the Time Lords as he uncovers an elaborate scheme involving soldiers from different time periods being forced to fight in war games.",
+      "doctor": {
+        "actor": "Patrick Troughton",
+        "incarnation": "Second Doctor"
+      },
+      "companion": {
+        "actor": "Frazer Hines",
+        "character": "Jamie McCrimmon"
+      },
+      "cast": [
+        {
+          "actor": "Wendy Padbury",
+          "character": "Zoe Heriot"
+        },
+        {
+          "actor": "Philip Madoc",
+          "character": "War Lord"
+        },
+        {
+          "actor": "Edward Brayshaw",
+          "character": "War Chief"
+        }
+      ]
+    }
+  ]
+}

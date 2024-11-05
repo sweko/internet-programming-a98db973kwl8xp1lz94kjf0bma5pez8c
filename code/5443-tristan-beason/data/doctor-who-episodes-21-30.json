@@ -1,0 +1,324 @@
+{
+  "episodes": [
+    {
+      "rank": 21,
+      "title": "The Caves of Androzani",
+      "series": 21,
+      "era": "Classic",
+      "broadcast_date": "1984-03-08",
+      "director": "Graeme Harper",
+      "writer": "Robert Holmes",
+      "plot": "The Doctor and Peri become embroiled in a political struggle on Androzani Minor while trying to find a cure for spectrox toxemia, leading to the Fifth Doctor's regeneration.",
+      "doctor": {
+        "actor": "Peter Davison",
+        "incarnation": "Fifth Doctor"
+      },
+      "companion": {
+        "actor": "Nicola Bryant",
+        "character": "Peri Brown"
+      },
+      "cast": [
+        {
+          "actor": "Christopher Gable",
+          "character": "Sharaz Jek"
+        },
+        {
+          "actor": "John Normington",
+          "character": "Morgus"
+        },
+        {
+          "actor": "Robert Glenister",
+          "character": "Salateen"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "City of Death",
+      "series": 17,
+      "era": "Classic",
+      "broadcast_date": "1979-09-29",
+      "director": "Michael Hayes",
+      "writer": "Douglas Adams, Graham Williams",
+      "plot": "The Doctor and Romana investigate a plot involving multiple versions of a count in Paris 1979, which connects to the origins of human life on Earth.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Lalla Ward",
+        "character": "Romana II"
+      },
+      "cast": [
+        {
+          "actor": "Julian Glover",
+          "character": "Count Scarlioni/Scaroth"
+        },
+        {
+          "actor": "Catherine Schell",
+          "character": "Countess Scarlioni"
+        },
+        {
+          "actor": "Tom Chadbon",
+          "character": "Duggan"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "The Tomb of the Cybermen",
+      "series": 5,
+      "era": "Classic",
+      "broadcast_date": "1967-09-02",
+      "director": "Morris Barry",
+      "writer": "Kit Pedler, Gerry Davis",
+      "plot": "The Doctor and his companions discover an ancient tomb on Telos containing frozen Cybermen, which a group of archeologists unwittingly plan to revive.",
+      "doctor": {
+        "actor": "Patrick Troughton",
+        "incarnation": "Second Doctor"
+      },
+      "companion": {
+        "actor": "Frazer Hines",
+        "character": "Jamie McCrimmon"
+      },
+      "cast": [
+        {
+          "actor": "Deborah Watling",
+          "character": "Victoria Waterfield"
+        },
+        {
+          "actor": "George Pastell",
+          "character": "Eric Klieg"
+        },
+        {
+          "actor": "Shirley Cooklin",
+          "character": "Kaftan"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Pyramids of Mars",
+      "series": 13,
+      "era": "Classic",
+      "broadcast_date": "1975-10-25",
+      "director": "Paddy Russell",
+      "writer": "Stephen Harris, Lewis Greifer",
+      "plot": "The Doctor and Sarah Jane battle Sutekh, an ancient Egyptian god-like alien who threatens to destroy all life in the universe.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Elisabeth Sladen",
+        "character": "Sarah Jane Smith"
+      },
+      "cast": [
+        {
+          "actor": "Gabriel Woolf",
+          "character": "Sutekh"
+        },
+        {
+          "actor": "Michael Sheard",
+          "character": "Laurence Scarman"
+        },
+        {
+          "actor": "Bernard Archard",
+          "character": "Marcus Scarman"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "The Talons of Weng-Chiang",
+      "series": 14,
+      "era": "Classic",
+      "broadcast_date": "1977-02-26",
+      "director": "David Maloney",
+      "writer": "Robert Holmes",
+      "plot": "The Doctor and Leela investigate mysterious disappearances in Victorian London, leading them to a Chinese magician and his master, a time-traveling war criminal from the future.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Louise Jameson",
+        "character": "Leela"
+      },
+      "cast": [
+        {
+          "actor": "John Bennett",
+          "character": "Li H'sen Chang"
+        },
+        {
+          "actor": "Deep Roy",
+          "character": "Mr. Sin"
+        },
+        {
+          "actor": "Christopher Benjamin",
+          "character": "Henry Gordon Jago"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "title": "Inferno",
+      "series": 7,
+      "era": "Classic",
+      "broadcast_date": "1970-05-09",
+      "director": "Douglas Camfield, Barry Letts",
+      "writer": "Don Houghton",
+      "plot": "The Doctor travels to a parallel universe where Britain is a fascist state, while trying to prevent a drilling project that threatens to destroy both worlds.",
+      "doctor": {
+        "actor": "Jon Pertwee",
+        "incarnation": "Third Doctor"
+      },
+      "companion": {
+        "actor": "Caroline John",
+        "character": "Liz Shaw"
+      },
+      "cast": [
+        {
+          "actor": "Nicholas Courtney",
+          "character": "Brigade Leader Lethbridge-Stewart"
+        },
+        {
+          "actor": "Olaf Pooley",
+          "character": "Professor Stahlman"
+        },
+        {
+          "actor": "John Levene",
+          "character": "Sergeant Benton"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "title": "The Mind Robber",
+      "series": 6,
+      "era": "Classic",
+      "broadcast_date": "1968-09-14",
+      "director": "David Maloney",
+      "writer": "Peter Ling",
+      "plot": "The Doctor and his companions become trapped in the Land of Fiction, where they must face literary characters and prevent the Doctor from becoming its new master.",
+      "doctor": {
+        "actor": "Patrick Troughton",
+        "incarnation": "Second Doctor"
+      },
+      "companion": {
+        "actor": "Frazer Hines",
+        "character": "Jamie McCrimmon"
+      },
+      "cast": [
+        {
+          "actor": "Wendy Padbury",
+          "character": "Zoe Heriot"
+        },
+        {
+          "actor": "Emrys Jones",
+          "character": "The Master of the Land of Fiction"
+        },
+        {
+          "actor": "Bernard Horsfall",
+          "character": "Gulliver"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "title": "The Green Death",
+      "series": 10,
+      "era": "Classic",
+      "broadcast_date": "1973-05-19",
+      "director": "Michael Briant",
+      "writer": "Robert Sloman",
+      "plot": "The Doctor investigates mysterious deaths in a Welsh mining village, involving giant maggots and a sinister computer intelligence called BOSS.",
+      "doctor": {
+        "actor": "Jon Pertwee",
+        "incarnation": "Third Doctor"
+      },
+      "companion": {
+        "actor": "Katy Manning",
+        "character": "Jo Grant"
+      },
+      "cast": [
+        {
+          "actor": "Nicholas Courtney",
+          "character": "Brigadier Lethbridge-Stewart"
+        },
+        {
+          "actor": "Stewart Bevan",
+          "character": "Professor Clifford Jones"
+        },
+        {
+          "actor": "Jerome Willis",
+          "character": "Stevens"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "title": "Terror of the Zygons",
+      "series": 13,
+      "era": "Classic",
+      "broadcast_date": "1975-08-30",
+      "director": "Douglas Camfield",
+      "writer": "Robert Banks Stewart",
+      "plot": "The Doctor investigates mysterious attacks around Loch Ness, uncovering a plot by shape-shifting Zygons to conquer Earth using a cybernetic sea monster.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Elisabeth Sladen",
+        "character": "Sarah Jane Smith"
+      },
+      "cast": [
+        {
+          "actor": "Nicholas Courtney",
+          "character": "Brigadier Lethbridge-Stewart"
+        },
+        {
+          "actor": "John Woodnutt",
+          "character": "Duke of Forgill/Broton"
+        },
+        {
+          "actor": "Ian Marter",
+          "character": "Harry Sullivan"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "title": "The Robots of Death",
+      "series": 14,
+      "era": "Classic",
+      "broadcast_date": "1977-01-29",
+      "director": "Michael E. Briant",
+      "writer": "Chris Boucher",
+      "plot": "The Doctor and Leela investigate murders aboard a sandminer where the crew depends on robots for survival, leading to a classic locked-room mystery in space.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Louise Jameson",
+        "character": "Leela"
+      },
+      "cast": [
+        {
+          "actor": "Pamela Salem",
+          "character": "Toos"
+        },
+        {
+          "actor": "David Collings",
+          "character": "Poul"
+        },
+        {
+          "actor": "Russell Hunter",
+          "character": "Uvanov"
+        }
+      ]
+    }
+  ]
+}

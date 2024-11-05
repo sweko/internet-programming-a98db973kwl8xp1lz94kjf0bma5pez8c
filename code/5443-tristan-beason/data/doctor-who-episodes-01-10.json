@@ -1,0 +1,300 @@
+{
+  "episodes": [
+    {
+      "rank": 1,
+      "title": "Blink",
+      "series": 3,
+      "era": "Modern",
+      "broadcast_date": "2007-06-09",
+      "director": "Hettie MacDonald",
+      "writer": "Steven Moffat",
+      "plot": "Sally Sparrow must unravel a time-twisted mystery involving the Weeping Angels, stone creatures that send their victims into the past and feed off their potential energy.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Freema Agyeman",
+        "character": "Martha Jones"
+      },
+      "cast": [
+        {
+          "actor": "Carey Mulligan",
+          "character": "Sally Sparrow"
+        },
+        {
+          "actor": "Finlay Robertson",
+          "character": "Larry Nightingale"
+        },
+        {
+          "actor": "Michael Obiora",
+          "character": "Billy Shipton"
+        },
+        {
+          "actor": "Lucy Gaskell",
+          "character": "Kathy Nightingale"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Heaven Sent",
+      "series": 9,
+      "era": "Modern",
+      "broadcast_date": "2015-11-28",
+      "director": "Rachel Talalay",
+      "writer": "Steven Moffat",
+      "plot": "Trapped in a mysterious castle, the Doctor must face his greatest fears and confess his darkest secrets in a four-billion-year loop to break through an unbreakable wall.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Jenna Coleman",
+        "character": "Clara Oswald"
+      },
+      "cast": [
+        {
+          "actor": "Jami Reid-Quarrell",
+          "character": "The Veil"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "The Empty Child/The Doctor Dances",
+      "series": 1,
+      "era": "Modern",
+      "broadcast_date": "2005-05-21",
+      "director": "James Hawes",
+      "writer": "Steven Moffat",
+      "plot": "In WWII London, the Doctor and Rose encounter a mysterious child in a gas mask whose touch transforms others into exact copies of itself.",
+      "doctor": {
+        "actor": "Christopher Eccleston",
+        "incarnation": "Ninth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "John Barrowman",
+          "character": "Captain Jack Harkness"
+        },
+        {
+          "actor": "Florence Hoath",
+          "character": "Nancy"
+        },
+        {
+          "actor": "Richard Wilson",
+          "character": "Dr. Constantine"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "The Day of the Doctor",
+      "series": "Special",
+      "era": "Modern",
+      "broadcast_date": "2013-11-23",
+      "director": "Nick Hurran",
+      "writer": "Steven Moffat",
+      "plot": "Three incarnations of the Doctor must work together to save Gallifrey on the last day of the Time War, leading to a change in the Doctor's personal timeline.",
+      "doctor": {
+        "actor": "Matt Smith",
+        "incarnation": "Eleventh Doctor"
+      },
+      "companion": {
+        "actor": "Jenna Coleman",
+        "character": "Clara Oswald"
+      },
+      "cast": [
+        {
+          "actor": "David Tennant",
+          "character": "Tenth Doctor"
+        },
+        {
+          "actor": "John Hurt",
+          "character": "War Doctor"
+        },
+        {
+          "actor": "Billie Piper",
+          "character": "The Moment"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Silence in the Library/Forest of the Dead",
+      "series": 4,
+      "era": "Modern",
+      "broadcast_date": "2008-05-31",
+      "director": "Euros Lyn",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor and Donna investigate a mysterious library planet where people are being devoured by shadows, and meet the enigmatic River Song for the first time.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Catherine Tate",
+        "character": "Donna Noble"
+      },
+      "cast": [
+        {
+          "actor": "Alex Kingston",
+          "character": "River Song"
+        },
+        {
+          "actor": "Colin Salmon",
+          "character": "Dr. Moon"
+        },
+        {
+          "actor": "Eve Newton",
+          "character": "CAL"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Vincent and the Doctor",
+      "series": 5,
+      "era": "Modern",
+      "broadcast_date": "2010-06-05",
+      "director": "Jonny Campbell",
+      "writer": "Richard Curtis",
+      "plot": "The Doctor and Amy meet Vincent van Gogh and help him battle an invisible monster while exploring the painter's mental health struggles and artistic genius.",
+      "doctor": {
+        "actor": "Matt Smith",
+        "incarnation": "Eleventh Doctor"
+      },
+      "companion": {
+        "actor": "Karen Gillan",
+        "character": "Amy Pond"
+      },
+      "cast": [
+        {
+          "actor": "Tony Curran",
+          "character": "Vincent van Gogh"
+        },
+        {
+          "actor": "Bill Nighy",
+          "character": "Dr. Black"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "The Girl in the Fireplace",
+      "series": 2,
+      "era": "Modern",
+      "broadcast_date": "2006-05-06",
+      "director": "Euros Lyn",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor forms a romantic connection with Madame de Pompadour while investigating clockwork droids that are opening time windows into 18th century France.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "Sophia Myles",
+          "character": "Madame de Pompadour"
+        },
+        {
+          "actor": "Noel Clarke",
+          "character": "Mickey Smith"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Midnight",
+      "series": 4,
+      "era": "Modern",
+      "broadcast_date": "2008-06-14",
+      "director": "Alice Troughton",
+      "writer": "Russell T Davies",
+      "plot": "During a shuttle trip on a diamond planet, the Doctor faces a mysterious entity that possesses a passenger and turns the other tourists against each other.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Catherine Tate",
+        "character": "Donna Noble"
+      },
+      "cast": [
+        {
+          "actor": "Lesley Sharp",
+          "character": "Sky Silvestry"
+        },
+        {
+          "actor": "David Troughton",
+          "character": "Professor Hobbes"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "The Waters of Mars",
+      "series": "Special",
+      "era": "Modern",
+      "broadcast_date": "2009-11-15",
+      "director": "Graeme Harper",
+      "writer": "Russell T Davies, Phil Ford",
+      "plot": "The Doctor faces a moral dilemma when he encounters the crew of Bowie Base One on Mars, knowing their deaths are a fixed point in time.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Lindsay Duncan",
+        "character": "Adelaide Brooke"
+      },
+      "cast": [
+        {
+          "actor": "Peter O'Brien",
+          "character": "Ed Gold"
+        },
+        {
+          "actor": "Sharon Duncan-Brewster",
+          "character": "Maggie Cain"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Listen",
+      "series": 8,
+      "era": "Modern",
+      "broadcast_date": "2014-09-13",
+      "director": "Douglas Mackinnon",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor becomes obsessed with the idea of perfect hiding and the possibility that no one is ever truly alone, leading to a journey through time that connects to his own past.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Jenna Coleman",
+        "character": "Clara Oswald"
+      },
+      "cast": [
+        {
+          "actor": "Samuel Anderson",
+          "character": "Danny Pink"
+        },
+        {
+          "actor": "John Hurt",
+          "character": "War Doctor (Child)"
+        }
+      ]
+    }
+  ]
+}

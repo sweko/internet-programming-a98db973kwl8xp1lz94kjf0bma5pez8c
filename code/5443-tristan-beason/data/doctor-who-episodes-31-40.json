@@ -1,0 +1,332 @@
+{
+  "episodes": [
+    {
+      "rank": 31,
+      "title": "The Haunting of Villa Diodati",
+      "series": 12,
+      "era": "Recent",
+      "broadcast_date": "2020-02-16",
+      "director": "Emma Sullivan",
+      "writer": "Maxine Alderton",
+      "plot": "The Doctor and her companions meet Mary Shelley on the famous night that inspired Frankenstein, only to discover a half-converted Cyberman seeking the Cyberium.",
+      "doctor": {
+        "actor": "Jodie Whittaker",
+        "incarnation": "Thirteenth Doctor"
+      },
+      "companion": {
+        "actor": "Mandip Gill",
+        "character": "Yasmin Khan"
+      },
+      "cast": [
+        {
+          "actor": "Lili Miller",
+          "character": "Mary Shelley"
+        },
+        {
+          "actor": "Jacob Collins-Levy",
+          "character": "Lord Byron"
+        },
+        {
+          "actor": "Tosin Cole",
+          "character": "Ryan Sinclair"
+        },
+        {
+          "actor": "Bradley Walsh",
+          "character": "Graham O'Brien"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "title": "Fugitive of the Judoon",
+      "series": 12,
+      "era": "Recent",
+      "broadcast_date": "2020-01-26",
+      "director": "Nida Manzoor",
+      "writer": "Vinay Patel, Chris Chibnall",
+      "plot": "A routine Judoon investigation leads to the shocking revelation of a previously unknown incarnation of the Doctor hiding on Earth as Ruth Clayton.",
+      "doctor": {
+        "actor": "Jodie Whittaker",
+        "incarnation": "Thirteenth Doctor"
+      },
+      "companion": {
+        "actor": "Mandip Gill",
+        "character": "Yasmin Khan"
+      },
+      "cast": [
+        {
+          "actor": "Jo Martin",
+          "character": "Ruth Clayton/The Doctor"
+        },
+        {
+          "actor": "Neil Stuke",
+          "character": "Lee Clayton"
+        },
+        {
+          "actor": "John Barrowman",
+          "character": "Captain Jack Harkness"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "title": "Rosa",
+      "series": 11,
+      "era": "Recent",
+      "broadcast_date": "2018-10-21",
+      "director": "Mark Tonderai",
+      "writer": "Malorie Blackman, Chris Chibnall",
+      "plot": "The Doctor and her friends must protect Rosa Parks and ensure her historic protest remains unchanged while a time-traveling criminal attempts to disrupt the timeline.",
+      "doctor": {
+        "actor": "Jodie Whittaker",
+        "incarnation": "Thirteenth Doctor"
+      },
+      "companion": {
+        "actor": "Mandip Gill",
+        "character": "Yasmin Khan"
+      },
+      "cast": [
+        {
+          "actor": "Vinette Robinson",
+          "character": "Rosa Parks"
+        },
+        {
+          "actor": "Joshua Bowman",
+          "character": "Krasko"
+        },
+        {
+          "actor": "Bradley Walsh",
+          "character": "Graham O'Brien"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "title": "Demons of the Punjab",
+      "series": 11,
+      "era": "Recent",
+      "broadcast_date": "2018-11-11",
+      "director": "Jamie Childs",
+      "writer": "Vinay Patel",
+      "plot": "Yaz travels back to her grandmother's youth during the Partition of India, discovering both family secrets and aliens who witness deaths across the universe.",
+      "doctor": {
+        "actor": "Jodie Whittaker",
+        "incarnation": "Thirteenth Doctor"
+      },
+      "companion": {
+        "actor": "Mandip Gill",
+        "character": "Yasmin Khan"
+      },
+      "cast": [
+        {
+          "actor": "Amita Suman",
+          "character": "Umbreen"
+        },
+        {
+          "actor": "Shane Zaza",
+          "character": "Prem"
+        },
+        {
+          "actor": "Shaheen Khan",
+          "character": "Najia Khan"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "title": "The Power of the Doctor",
+      "series": "Special",
+      "era": "Recent",
+      "broadcast_date": "2022-10-23",
+      "director": "Jamie Magnus Stone",
+      "writer": "Chris Chibnall",
+      "plot": "The Thirteenth Doctor faces her final battle against the Master, the Daleks, and the Cybermen while trying to protect the fate of her companions and all of humanity.",
+      "doctor": {
+        "actor": "Jodie Whittaker",
+        "incarnation": "Thirteenth Doctor"
+      },
+      "companion": {
+        "actor": "Mandip Gill",
+        "character": "Yasmin Khan"
+      },
+      "cast": [
+        {
+          "actor": "Sacha Dhawan",
+          "character": "The Master"
+        },
+        {
+          "actor": "Janet Fielding",
+          "character": "Tegan Jovanka"
+        },
+        {
+          "actor": "Sophie Aldred",
+          "character": "Ace"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "title": "The Pandorica Opens/The Big Bang",
+      "series": 5,
+      "era": "Modern",
+      "broadcast_date": "2010-06-19",
+      "director": "Toby Haynes",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor's enemies unite to trap him in the Pandorica, leading to the collapse of all reality and a race against time to reboot the universe.",
+      "doctor": {
+        "actor": "Matt Smith",
+        "incarnation": "Eleventh Doctor"
+      },
+      "companion": {
+        "actor": "Karen Gillan",
+        "character": "Amy Pond"
+      },
+      "cast": [
+        {
+          "actor": "Arthur Darvill",
+          "character": "Rory Williams"
+        },
+        {
+          "actor": "Alex Kingston",
+          "character": "River Song"
+        },
+        {
+          "actor": "Caitlin Blackwood",
+          "character": "Young Amelia"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "title": "The End of Time",
+      "series": "Special",
+      "era": "Modern",
+      "broadcast_date": "2009-12-25",
+      "director": "Euros Lyn",
+      "writer": "Russell T Davies",
+      "plot": "The Master returns with a plan to turn everyone on Earth into himself, while the Time Lords attempt to break out of the Time War, leading to the Tenth Doctor's regeneration.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Bernard Cribbins",
+        "character": "Wilfred Mott"
+      },
+      "cast": [
+        {
+          "actor": "John Simm",
+          "character": "The Master"
+        },
+        {
+          "actor": "Timothy Dalton",
+          "character": "Rassilon"
+        },
+        {
+          "actor": "Catherine Tate",
+          "character": "Donna Noble"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "title": "School Reunion",
+      "series": 2,
+      "era": "Modern",
+      "broadcast_date": "2006-04-29",
+      "director": "James Hawes",
+      "writer": "Toby Whithouse",
+      "plot": "The Doctor reunites with Sarah Jane Smith while investigating mysterious happenings at a school, forcing Rose to confront the reality of what it means to travel with the Doctor.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "Elisabeth Sladen",
+          "character": "Sarah Jane Smith"
+        },
+        {
+          "actor": "Anthony Head",
+          "character": "Mr. Finch"
+        },
+        {
+          "actor": "John Leeson",
+          "character": "K9 (voice)"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "title": "The Angels Take Manhattan",
+      "series": 7,
+      "era": "Modern",
+      "broadcast_date": "2012-09-29",
+      "director": "Nick Hurran",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor and River Song face the Weeping Angels in 1930s New York, leading to a tragic farewell as Amy and Rory make their final choice.",
+      "doctor": {
+        "actor": "Matt Smith",
+        "incarnation": "Eleventh Doctor"
+      },
+      "companion": {
+        "actor": "Karen Gillan",
+        "character": "Amy Pond"
+      },
+      "cast": [
+        {
+          "actor": "Arthur Darvill",
+          "character": "Rory Williams"
+        },
+        {
+          "actor": "Alex Kingston",
+          "character": "River Song"
+        },
+        {
+          "actor": "Mike McShane",
+          "character": "Grayle"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "title": "The Stolen Earth/Journey's End",
+      "series": 4,
+      "era": "Modern",
+      "broadcast_date": "2008-06-28",
+      "director": "Graeme Harper",
+      "writer": "Russell T Davies",
+      "plot": "Davros and the Daleks steal Earth along with other planets, leading to an epic reunion of the Doctor's companions to save the universe.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Catherine Tate",
+        "character": "Donna Noble"
+      },
+      "cast": [
+        {
+          "actor": "Billie Piper",
+          "character": "Rose Tyler"
+        },
+        {
+          "actor": "Julian Bleach",
+          "character": "Davros"
+        },
+        {
+          "actor": "Elisabeth Sladen",
+          "character": "Sarah Jane Smith"
+        },
+        {
+          "actor": "John Barrowman",
+          "character": "Captain Jack Harkness"
+        }
+      ]
+    }
+  ]
+}

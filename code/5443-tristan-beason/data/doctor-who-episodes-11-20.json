@@ -1,0 +1,324 @@
+{
+  "episodes": [
+    {
+      "rank": 11,
+      "title": "The Doctor's Wife",
+      "series": 6,
+      "era": "Modern",
+      "broadcast_date": "2011-05-14",
+      "director": "Richard Clark",
+      "writer": "Neil Gaiman",
+      "plot": "The TARDIS matrix is transferred into a human body, allowing the Doctor to finally talk with his beloved ship while facing a malevolent entity outside the universe.",
+      "doctor": {
+        "actor": "Matt Smith",
+        "incarnation": "Eleventh Doctor"
+      },
+      "companion": {
+        "actor": "Karen Gillan",
+        "character": "Amy Pond"
+      },
+      "cast": [
+        {
+          "actor": "Suranne Jones",
+          "character": "Idris/The TARDIS"
+        },
+        {
+          "actor": "Arthur Darvill",
+          "character": "Rory Williams"
+        },
+        {
+          "actor": "Michael Sheen",
+          "character": "House (Voice)"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Human Nature/The Family of Blood",
+      "series": 3,
+      "era": "Modern",
+      "broadcast_date": "2007-05-26",
+      "director": "Charles Palmer",
+      "writer": "Paul Cornell",
+      "plot": "The Doctor transforms himself into a human schoolteacher in 1913 to hide from the Family of Blood, creating complex emotional consequences when he falls in love.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Freema Agyeman",
+        "character": "Martha Jones"
+      },
+      "cast": [
+        {
+          "actor": "Jessica Hynes",
+          "character": "Joan Redfern"
+        },
+        {
+          "actor": "Harry Lloyd",
+          "character": "Jeremy Baines"
+        },
+        {
+          "actor": "Thomas Sangster",
+          "character": "Tim Latimer"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Turn Left",
+      "series": 4,
+      "era": "Modern",
+      "broadcast_date": "2008-06-21",
+      "director": "Graeme Harper",
+      "writer": "Russell T Davies",
+      "plot": "Donna experiences an alternate timeline where she never met the Doctor, showing how different the world would be without his intervention.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Catherine Tate",
+        "character": "Donna Noble"
+      },
+      "cast": [
+        {
+          "actor": "Jacqueline King",
+          "character": "Sylvia Noble"
+        },
+        {
+          "actor": "Bernard Cribbins",
+          "character": "Wilfred Mott"
+        },
+        {
+          "actor": "Billie Piper",
+          "character": "Rose Tyler"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "The Eleventh Hour",
+      "series": 5,
+      "era": "Modern",
+      "broadcast_date": "2010-04-03",
+      "director": "Adam Smith",
+      "writer": "Steven Moffat",
+      "plot": "A newly regenerated Doctor must save Earth from the Atraxi with the help of young Amelia Pond and her grown-up self, while dealing with a damaged TARDIS.",
+      "doctor": {
+        "actor": "Matt Smith",
+        "incarnation": "Eleventh Doctor"
+      },
+      "companion": {
+        "actor": "Karen Gillan",
+        "character": "Amy Pond"
+      },
+      "cast": [
+        {
+          "actor": "Caitlin Blackwood",
+          "character": "Young Amelia Pond"
+        },
+        {
+          "actor": "Arthur Darvill",
+          "character": "Rory Williams"
+        },
+        {
+          "actor": "Nina Wadia",
+          "character": "Dr. Ramsden"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "World Enough and Time/The Doctor Falls",
+      "series": 10,
+      "era": "Modern",
+      "broadcast_date": "2017-06-24",
+      "director": "Rachel Talalay",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor faces two versions of the Master while trying to save Bill from being converted into a Cyberman on a massive colony ship trapped near a black hole.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Pearl Mackie",
+        "character": "Bill Potts"
+      },
+      "cast": [
+        {
+          "actor": "Michelle Gomez",
+          "character": "Missy"
+        },
+        {
+          "actor": "John Simm",
+          "character": "The Master"
+        },
+        {
+          "actor": "Matt Lucas",
+          "character": "Nardole"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Dark Water/Death in Heaven",
+      "series": 8,
+      "era": "Modern",
+      "broadcast_date": "2014-11-01",
+      "director": "Rachel Talalay",
+      "writer": "Steven Moffat",
+      "plot": "The Doctor and Clara confront Missy's plan to convert Earth's dead into an army of Cybermen, while dealing with the death of Danny Pink.",
+      "doctor": {
+        "actor": "Peter Capaldi",
+        "incarnation": "Twelfth Doctor"
+      },
+      "companion": {
+        "actor": "Jenna Coleman",
+        "character": "Clara Oswald"
+      },
+      "cast": [
+        {
+          "actor": "Michelle Gomez",
+          "character": "Missy"
+        },
+        {
+          "actor": "Samuel Anderson",
+          "character": "Danny Pink"
+        },
+        {
+          "actor": "Chris Addison",
+          "character": "Seb"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Bad Wolf/The Parting of the Ways",
+      "series": 1,
+      "era": "Modern",
+      "broadcast_date": "2005-06-18",
+      "director": "Joe Ahearne",
+      "writer": "Russell T Davies",
+      "plot": "The Doctor discovers the deadly truth behind the Game Station while Rose absorbs the Time Vortex to save him, leading to the Ninth Doctor's regeneration.",
+      "doctor": {
+        "actor": "Christopher Eccleston",
+        "incarnation": "Ninth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "John Barrowman",
+          "character": "Captain Jack Harkness"
+        },
+        {
+          "actor": "Jo Joyner",
+          "character": "Lynda Moss"
+        },
+        {
+          "actor": "Anne Robinson",
+          "character": "Anne Droid (Voice)"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Army of Ghosts/Doomsday",
+      "series": 2,
+      "era": "Modern",
+      "broadcast_date": "2006-07-01",
+      "director": "Graeme Harper",
+      "writer": "Russell T Davies",
+      "plot": "The Doctor and Rose face both the Cybermen and the Daleks as parallel universes collide, leading to a heartbreaking farewell at Bad Wolf Bay.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "Camille Coduri",
+          "character": "Jackie Tyler"
+        },
+        {
+          "actor": "Noel Clarke",
+          "character": "Mickey Smith"
+        },
+        {
+          "actor": "Tracy-Ann Oberman",
+          "character": "Yvonne Hartman"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "The Impossible Planet/The Satan Pit",
+      "series": 2,
+      "era": "Modern",
+      "broadcast_date": "2006-06-03",
+      "director": "James Strong",
+      "writer": "Matt Jones",
+      "plot": "The Doctor and Rose find themselves on a base orbiting a black hole where they encounter an ancient evil claiming to be the Devil itself.",
+      "doctor": {
+        "actor": "David Tennant",
+        "incarnation": "Tenth Doctor"
+      },
+      "companion": {
+        "actor": "Billie Piper",
+        "character": "Rose Tyler"
+      },
+      "cast": [
+        {
+          "actor": "Danny Webb",
+          "character": "Mr. Jefferson"
+        },
+        {
+          "actor": "Shaun Parkes",
+          "character": "Zachary Cross Flane"
+        },
+        {
+          "actor": "Gabriel Woolf",
+          "character": "Beast (Voice)"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Genesis of the Daleks",
+      "series": 12,
+      "era": "Classic",
+      "broadcast_date": "1975-03-08",
+      "director": "David Maloney",
+      "writer": "Terry Nation",
+      "plot": "The Time Lords send the Doctor to Skaro to prevent the creation of the Daleks, leading him to confront their creator Davros and face a crucial moral decision.",
+      "doctor": {
+        "actor": "Tom Baker",
+        "incarnation": "Fourth Doctor"
+      },
+      "companion": {
+        "actor": "Elisabeth Sladen",
+        "character": "Sarah Jane Smith"
+      },
+      "cast": [
+        {
+          "actor": "Michael Wisher",
+          "character": "Davros"
+        },
+        {
+          "actor": "Ian Marter",
+          "character": "Harry Sullivan"
+        },
+        {
+          "actor": "Peter Miles",
+          "character": "Nyder"
+        }
+      ]
+    }
+  ]
+}
