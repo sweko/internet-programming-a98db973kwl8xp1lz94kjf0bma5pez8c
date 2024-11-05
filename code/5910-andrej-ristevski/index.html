@@ -1,35 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doctor Who Episodes</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div class="container">
         <h1>Doctor Who Episodes</h1>
-        
+
         <div class="filters">
             <div class="filter-group">
                 <label for="name-filter">Episode Name:</label>
                 <input type="text" id="name-filter" placeholder="Search episodes...">
             </div>
-            
+
             <div class="filter-group">
                 <label for="era-filter">Era:</label>
                 <select id="era-filter">
                     <option value="">All Eras</option>
                 </select>
             </div>
-            
+
             <div class="filter-group">
                 <label for="doctor-filter">Doctor:</label>
                 <select id="doctor-filter">
                     <option value="">All Doctors</option>
                 </select>
             </div>
-            
+
             <div class="filter-group">
                 <label for="companion-filter">Companion:</label>
                 <select id="companion-filter">
@@ -52,7 +54,7 @@
                 <div class="header-cell" data-sort="cast">Cast</div>
                 <div class="header-cell" data-sort="plot">Plot</div>
             </div>
-            
+
             <!-- Example episode row -->
             <div class="episode-row">
                 <div class="episode-cell">1</div>
@@ -71,4 +73,5 @@
     </div>
     <script src="script.js"></script>
 </body>
+
 </html>
