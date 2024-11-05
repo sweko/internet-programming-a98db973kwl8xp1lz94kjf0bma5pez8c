@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #005ba4;
-    --secondary-color: #0081c6;
-    --background-color: #f5f5f5;
+    --primary-color: #21358dde;
+    --secondary-color: #fcfcfc;
+    --background-color: #d62c2c;
     --border-color: #ddd;
     --hover-color: #f0f0f0;
 }
@@ -15,7 +15,7 @@ body {
 
 .container {
     margin: 0 auto;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 20px;
 }
 
