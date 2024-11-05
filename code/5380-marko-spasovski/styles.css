@@ -58,9 +58,10 @@ h1 {
 
 .episodes-header {
     display: flex;
-    background-color: var(--primary-color);
-    color: white;
+    background-color: #f1f3f2;
+    color: black;
     font-weight: bold;
+    border: 1px solid black;
 }
 
 .header-cell {
@@ -129,3 +130,18 @@ h1 {
     vertical-align: middle;
     margin-right: 8px;
 }
+.sorted {
+    background-color: grey;
+}
+
+.ascending::after{
+    content: '↑';
+    font-size: 10px;
+    opacity: 1;
+  }
+
+  .descending::after{
+    content: '↓';
+    font-size: 10px;
+    opacity: 1;
+  }
