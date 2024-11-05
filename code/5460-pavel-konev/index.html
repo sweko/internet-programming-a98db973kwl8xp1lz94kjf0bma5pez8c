@@ -8,9 +8,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Doctor Who Episodes</h1>
+        <header>
+            <h1>Doctor Who Episodes</h1>
+        </header>
         
-        <div class="filters">
+        <section class="filters" aria-label="Filter Episodes">
             <div class="filter-group">
                 <label for="name-filter">Episode Name:</label>
                 <input type="text" id="name-filter" placeholder="Search episodes...">
@@ -36,10 +38,10 @@
                     <option value="">All Companions</option>
                 </select>
             </div>
-        </div>
+        </section>
 
-        <div class="episodes-list">
-            <div class="episodes-header">
+        <section class="episodes-list" aria-label="Episodes List">
+            <header class="episodes-header">
                 <div class="header-cell" data-sort="rank">Rank</div>
                 <div class="header-cell" data-sort="name">Name</div>
                 <div class="header-cell" data-sort="series">Series</div>
@@ -51,7 +53,7 @@
                 <div class="header-cell" data-sort="companion">Companion</div>
                 <div class="header-cell" data-sort="cast">Cast</div>
                 <div class="header-cell" data-sort="plot">Plot</div>
-            </div>
+            </header>
             
             <!-- Example episode row -->
             <div class="episode-row">
@@ -67,7 +69,7 @@
                 <div class="episode-cell">5</div>
                 <div class="episode-cell plot-preview">A brief description of the episode that might be longer...</div>
             </div>
-        </div>
+        </section>
     </div>
     <script src="script.js"></script>
 </body>
