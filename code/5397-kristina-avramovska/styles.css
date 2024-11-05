@@ -129,3 +129,30 @@ h1 {
     vertical-align: middle;
     margin-right: 8px;
 }
+
+.header-cell {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px;
+    display: inline-block;
+}
+
+.header-cell.sorted-asc::after {
+    content: " ▲";
+}
+
+.header-cell.sorted-desc::after {
+    content: " ▼";
+}
+
+.episode-row {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.episode-icon {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
