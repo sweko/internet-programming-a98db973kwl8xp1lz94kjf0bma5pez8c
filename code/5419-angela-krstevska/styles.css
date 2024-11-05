@@ -1,78 +1,78 @@
 :root {
-    --primary-color: #005ba4;
-    --secondary-color: #0081c6;
-    --background-color: #f5f5f5;
-    --border-color: #ddd;
-    --hover-color: #f0f0f0;
+  --primary-color: #005ba4;
+  --secondary-color: #0081c6;
+  --background-color: #f5f5f5;
+  --border-color: #ddd;
+  --hover-color: #f0f0f0;
 }
 
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: var(--background-color);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: var(--background-color);
 }
 
-.container {
-    margin: 0 auto;
-    background-color: white;
-    padding: 20px;
+.container-box {
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
 }
 
 h1 {
-    color: var(--primary-color);
-    text-align: center;
-    margin-bottom: 30px;
+  color: var(--primary-color);
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .filters {
-    display: flex;
-    gap: 20px;
-    margin-bottom: 30px;
-    padding: 20px;
-    background-color: var(--background-color);
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: var(--background-color);
 }
 
 .filter-group {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .filter-group label {
-    margin-bottom: 5px;
-    color: var(--primary-color);
-    font-weight: bold;
+  margin-bottom: 5px;
+  color: var(--primary-color);
+  font-weight: bold;
 }
 
 .filter-group input,
 .filter-group select {
-    padding: 8px;
-    border: 1px solid var(--border-color);
-    font-size: 14px;
-    width: 200px;
+  padding: 8px;
+  border: 1px solid var(--border-color);
+  font-size: 14px;
+  width: 200px;
 }
 
 .episodes-list {
-    border: 1px solid var(--border-color);
+  border: 1px solid var(--border-color);
 }
 
 .episodes-header {
-    display: flex;
-    background-color: var(--primary-color);
-    color: white;
-    font-weight: bold;
+  display: flex;
+  background-color: var(--primary-color);
+  color: white;
+  font-weight: bold;
 }
 
 .header-cell {
-    padding: 12px;
-    position: relative;
-    cursor: pointer;
+  padding: 12px;
+  position: relative;
+  cursor: pointer;
 }
 
 .header-cell:hover {
-    background-color: var(--secondary-color);
+  background-color: var(--secondary-color);
 }
-
+/* 
 .header-cell::after {
     content: '↕';
     position: absolute;
@@ -88,44 +88,36 @@ h1 {
 .header-cell.sorted-desc::after {
     content: '↓';
     opacity: 1;
-}
+} */
 
 .episode-row {
-    display: flex;
-    border-bottom: 1px solid var(--border-color);
+  display: flex;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .episode-row:hover {
-    background-color: var(--hover-color);
+  background-color: var(--hover-color);
 }
 
 .episode-cell {
-    padding: 12px;
+  padding: 12px;
 }
 
 .header-cell,
 .episode-cell {
-    flex: 1;
-}
-
-.header-cell[data-sort="rank"],
-.episode-cell:nth-child(1) {
-    flex: 0.5;
-}
-
-.header-cell[data-sort="name"],
-.episode-cell:nth-child(2) {
-    flex: 2;
-}
-
-.header-cell[data-sort="plot"],
-.episode-cell:nth-child(11) {
-    flex: 3;
+  flex: 1;
 }
 
 .era-icon {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    margin-right: 8px;
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+.sorted {
+  color: rgb(231, 245, 34);
+}
+
+.unsorted {
+  color: gray;
 }

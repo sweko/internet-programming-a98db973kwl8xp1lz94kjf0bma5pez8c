@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doctor Who Episodes</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/83a2a6ffac.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <div class="container">
+    <div class="container-box">
         <h1>Doctor Who Episodes</h1>
         
         <div class="filters">
@@ -36,25 +38,43 @@
                     <option value="">All Companions</option>
                 </select>
             </div>
+            <div class="d-flex align-items-end justify-content-center mb-1">
+            <button class="btn btn-secondary btn-sm" id="search-episodes"><i class="fa-solid fa-arrow-up-wide-short"></i> Filter</button>
+        </div>
         </div>
 
-        <div class="episodes-list">
+        <div class="episodes-list" id="episodes-list">
             <div class="episodes-header">
-                <div class="header-cell" data-sort="rank">Rank</div>
-                <div class="header-cell" data-sort="name">Name</div>
-                <div class="header-cell" data-sort="series">Series</div>
-                <div class="header-cell" data-sort="era">Era</div>
-                <div class="header-cell" data-sort="broadcast">Broadcast Year</div>
-                <div class="header-cell" data-sort="director">Director</div>
-                <div class="header-cell" data-sort="writer">Writer</div>
-                <div class="header-cell" data-sort="doctor">Doctor</div>
-                <div class="header-cell" data-sort="companion">Companion</div>
-                <div class="header-cell" data-sort="cast">Cast</div>
-                <div class="header-cell" data-sort="plot">Plot</div>
+                <div class="header-cell" data-sort="rank">Rank <span id="sort-rank" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="name">Name <span id="sort-title" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="series">Series <span id="sort-series" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="era">Era <span id="sort-era" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="broadcast">Broadcast Year <span id="sort-broadcast_date" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                    <div class="header-cell" data-sort="broadcast">Broadcast Decade <span id="sort-broadcast_decade" class="unsorted sorter"><i
+                        class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="director">Director <span id="sort-director" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="writer">Writer <span id="sort-writer" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="doctor">Doctor <span id="sort-doctor" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="companion">Companion <span id="sort-companion" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="cast">Cast <span id="sort-cast" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
+                <div class="header-cell" data-sort="plot">Plot <span id="sort-plot" class="unsorted sorter"><i
+                    class="fa fa-sort"></i></span></div>
             </div>
-            
+            <div id="episodes-container">
+
+            </div>
             <!-- Example episode row -->
-            <div class="episode-row">
+            <!-- <div class="episode-row">
                 <div class="episode-cell">1</div>
                 <div class="episode-cell">Episode Title</div>
                 <div class="episode-cell">1</div>
@@ -66,7 +86,7 @@
                 <div class="episode-cell">Billie Piper (Rose Tyler)</div>
                 <div class="episode-cell">5</div>
                 <div class="episode-cell plot-preview">A brief description of the episode that might be longer...</div>
-            </div>
+            </div> -->
         </div>
     </div>
     <script src="script.js"></script>
